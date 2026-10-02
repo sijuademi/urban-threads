@@ -1,0 +1,1 @@
+export function Editorial() { return <section className="editorial"><p className="eyebrow">THE URBAN UNIFORM</p><h2>Pieces with purpose.<br/>Worn <em>your</em> way.</h2><p>We make elevated everyday clothing that feels as good as it looks—designed to move with you, and made to last beyond the season.</p><a href="#journal">Our approach <span>→</span></a></section> }

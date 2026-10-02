@@ -1,0 +1,1 @@
+export function SuccessModal({ open, onClose }) { return open ? <div className="modal-backdrop"><div className="success-modal"><span>✦</span><h2>Order confirmed.</h2><p>Thank you for shopping with Urban Threads. Your confirmation is on its way.</p><button className="dark-button" onClick={onClose}>Continue shopping</button></div></div> : null }
